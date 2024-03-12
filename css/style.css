@@ -1,0 +1,115 @@
+header {
+  background-color: #ff693f;
+  padding: 8px;
+}
+
+body {
+  background-color: #fffbec;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  color: #fffbae;
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+a {
+  background-color: #fffbae;
+  color: #0e6d37;
+  text-decoration: none;
+  padding: 10px;
+  margin: 3px;
+}
+
+nav {
+  text-align: center;
+}
+
+img {
+  width: 1000px;
+  height: 700px;
+}
+
+.img-contenedor {
+  text-align: center;
+}
+
+.boton-receta {
+  padding: 20px;
+  background-color: #0e6d37;
+  color: #0e6d37;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-receta {
+  padding: 21px;
+}
+
+footer {
+  background-color: #ff693f;
+  padding: 8px;
+  text-align: center;
+  color: #fffbae;
+  margin-top: auto;
+}
+
+tr {
+  text-align: center;
+}
+
+.logos img {
+  width: 20px;
+  height: 20px;
+  padding-top: 20px;
+}
+
+.logos {
+  background-color: transparent;
+  padding: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.ingredientes {
+  margin: 10px;
+}
+
+.acerca-de {
+  margin: 10px;
+}
+
+.contacto {
+  margin: 10px;
+}
+
+.sucursales a {
+  background-color: transparent;
+  text-decoration: underline;
+  color: blue;
+}
+
+.sucursales {
+  margin: 10px;
+}
+
+.mapas {
+  text-align: center;
+  padding: 100px;
+}
+
+.registrese {
+  margin: 10px;
+}
+
+fieldset input {
+  margin: 10px;
+}
